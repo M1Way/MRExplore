@@ -5,6 +5,10 @@ Created on Mon Sep 11 13:54:29 2017
 @author: serge_000
 
 
+---test part for github
+TEST
+---
+
 global wTexp
 global wEexp
 global wSBexp
